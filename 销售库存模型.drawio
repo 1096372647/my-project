@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T05:32:07.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LgjlhZTSpDGHKY4JhW_a" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:33:12.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DLaX7kEtjPkxiHm0I1ir" version="22.1.21" type="github">
   <diagram name="第 1 页" id="emhzuR4raNmRg1GJ_wK9">
     <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -758,7 +758,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RM4ZR6YpuS-WiIJy_B-_-25" value="情报通竞店销售表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="43" y="755" width="180" height="486.75" as="geometry" />
+          <mxGeometry x="38" y="841" width="180" height="486.75" as="geometry" />
         </mxCell>
         <mxCell id="RM4ZR6YpuS-WiIJy_B-_-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="RM4ZR6YpuS-WiIJy_B-_-25">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -956,7 +956,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RM4ZR6YpuS-WiIJy_B-_-72" value="commodity_center_competitive_sales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="711" width="60" height="30" as="geometry" />
+          <mxGeometry x="106" y="797" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RM4ZR6YpuS-WiIJy_B-_-73" value="commodity_center_goods_info" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="22" y="101" width="191" height="36" as="geometry" />
